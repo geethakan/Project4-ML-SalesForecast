@@ -1,4 +1,4 @@
-![My Image](Data%20Images/Walmart_logo%202.png?raw=true)
+![My Image](Images/Walmart_logo%202.png?raw=true)
 
 # Walmart-Sales-Forecast
 Walmart department sales by week from Feb 2010 - Oct 2012
